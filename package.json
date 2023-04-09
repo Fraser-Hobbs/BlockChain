@@ -1,0 +1,12 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fraser Hobbs",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "discovery-swarm": "^6.1.0",
+    "get-port": "5.1.1"
+  }
+}
